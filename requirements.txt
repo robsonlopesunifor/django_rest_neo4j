@@ -1,0 +1,11 @@
+Django==1.9
+django-cors-headers==1.1.0
+django-registration-redux==1.4
+djangorestframework==3.4.6
+#psycopg2==2.6.2
+gunicorn==19.6.0
+neo4j-driver==1.1.0
+neomodel==3.2.0
+pytz==2016.10
+django-crispy-forms==1.6.1
+django-filter==1.0.1
